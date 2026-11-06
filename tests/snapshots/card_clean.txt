@@ -1,0 +1,11 @@
+🟡 PENDING · Payment CS-1b9e04 · needs 1 approval
+
+**Pay** ACME Office Supplies (V-ACME)
+**Amount** $480.00 USD · invoice INV-1040 · due 2026-11-15
+**To account** ****4412 · routing 021000021 (matches vendor file)
+**Evidence** PDF matches: invoice no. ✓ · amount ✓ · account ✓
+**Uploaded by** riya (can't approve)
+**Expires** 14:20 IST (15 min)
+
+Reply: `@countersign approve CS-1b9e04` · `@countersign reject CS-1b9e04 <reason>`
+hash 1b9e04aa…77c1 · policy 5d1e…

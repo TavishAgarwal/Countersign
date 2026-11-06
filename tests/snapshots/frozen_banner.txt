@@ -1,0 +1,4 @@
+🧊 FROZEN · payments are paused
+Reason: policy.yaml changed since it was last ratified (E_POLICY_UNRATIFIED).
+Ratify with `@countersign approve PR-9a0c11` (needs 2 approvers of the previous policy).
+Changes: approvers +sam · tiers k=2 now from $5,000.00 (was $1,000.00)

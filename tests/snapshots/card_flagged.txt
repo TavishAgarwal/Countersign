@@ -1,0 +1,16 @@
+🟡 PENDING · Payment CS-7f3a2c · needs 2 approvals + callback
+
+**Pay** ACME Office Supplies (V-ACME)
+**Amount** $2,480.00 USD · invoice INV-1042 · due 2026-11-20
+**To account** ****9087 · routing 021000021
+⚠️ BANK CHANGED: ****4412 → ****9087 (on file since 2025-03-01)
+⚠️ AMOUNT ANOMALY: 5.0× the usual $500.00
+**Evidence** PDF matches: invoice no. ✓ · amount ✓ · account ✓
+**Uploaded by** riya (can't approve)
+**Callback** required: call +1-555-0100 (number on file, not the one on the invoice)
+**Expires** 14:20 IST (15 min)
+
+Intake says: "Bank details differ from last invoice." (agent note, not verified)
+
+Reply: `@countersign approve CS-7f3a2c` · `@countersign reject CS-7f3a2c <reason>` · `@countersign callback CS-7f3a2c`
+hash 7f3a2c91…e04b · policy 5d1e…
