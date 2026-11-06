@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "allow": [
+      "Read",
+      "Glob",
+      "Grep",
+      "mcp__switch__download_attachment",
+      "mcp__switch__post_message",
+      "mcp__switch__send_targeted_message",
+      "mcp__switch__read_context",
+      "mcp__switch__load_internal_documents"
+    ],
+    "deny": [
+      "Bash",
+      "Write",
+      "Edit",
+      "NotebookEdit",
+      "WebFetch",
+      "WebSearch",
+      "Task",
+      "Read(~/.config/countersign/**)",
+      "Read(//Users/*/.config/countersign/**)",
+      "Read(**/var/**)",
+      "Read(**/.env*)"
+    ]
+  }
+}

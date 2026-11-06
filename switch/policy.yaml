@@ -1,0 +1,21 @@
+# Countersign policy (architecture.md §8.3). Editing this room doc freezes payments
+# until the change is ratified (CS-F21) or the owner runs `just accept-policy`.
+approvers: [meera, arjun, kabir]
+proposers: [intake, scripted-intake]
+window_sec: 900
+vendor_window_sec:
+  V-QUICK: 20
+tiers:
+  - {below_cents: 100000, k: 1}
+  - {below_cents: null, k: 2}
+bank_change: {k: 2, callback_required: true}
+amount_anomaly_factor: 2.0
+autopilot:
+  enabled: true
+  clean_runs: 2
+  band_pct: 10
+  max_days: 30
+  cap_cents: 1000000
+  grant_k: 2
+policy_change_k: 2
+require_workspace_role: false

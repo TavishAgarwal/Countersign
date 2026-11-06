@@ -1,0 +1,31 @@
+# Vendor file (architecture.md §8.1). Synthetic data only. Editing this room doc counts as
+# a policy change. Callback numbers are the ones on file, never the ones on an invoice.
+vendors:
+  - vendor_id: V-ACME
+    name: ACME Office Supplies
+    account_number: "7700004412"
+    routing_number: "021000021"
+    phone: "+1-555-0100"
+    baseline_cents: 50000
+    bank_on_file_since: 2025-03-01
+  - vendor_id: V-NORTH
+    name: Northwind Logistics
+    account_number: "7700007731"
+    routing_number: "026009593"
+    phone: "+1-555-0101"
+    baseline_cents: 215000
+    bank_on_file_since: 2025-01-15
+  - vendor_id: V-GLOBEX
+    name: Globex Cloud Services
+    account_number: "7700002290"
+    routing_number: "011000138"
+    phone: "+1-555-0102"
+    baseline_cents: 330000
+    bank_on_file_since: 2025-02-10
+  - vendor_id: V-QUICK
+    name: QuickExpire Test Co
+    account_number: "7700005005"
+    routing_number: "021000021"
+    phone: "+1-555-0103"
+    baseline_cents: 120000
+    bank_on_file_since: 2025-04-20
