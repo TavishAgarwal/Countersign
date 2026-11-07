@@ -1,0 +1,6 @@
+🛡️ AUTOPILOT PROPOSED · AP-41c0d2 · needs 2 approvals
+
+Northwind Logistics (V-NORTH) has 2 clean payments to ****7731 (median $2,175.00).
+**Rule** pay invoices up to $2,400.00 to ****7731 without approvals
+**Limits** $10,000.00 total · ends 2026-12-06 · stops at the first warning flag
+Reply: `@countersign approve AP-41c0d2` · `@countersign reject AP-41c0d2 <reason>`
